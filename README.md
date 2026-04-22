@@ -152,6 +152,9 @@ the thesis being argued.
 
 ## License
 
-All rights reserved unless and until a `LICENSE` file is added.
-If you'd like to use, remix, or present (parts of) this deck, open an
-issue first.
+This project is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+You can use, remix, and share it freely (including commercially) as long as
+you give credit to **Dennis**.
+
+See [`LICENSE`](./LICENSE) for the full terms.
