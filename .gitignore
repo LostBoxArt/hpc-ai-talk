@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+node_modules/
+*.log
+.trash/
+.cursor_tmp_manifest
+tmp/
+tests/tmp/
