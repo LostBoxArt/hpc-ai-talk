@@ -5,6 +5,8 @@ on how modern AI agents — LLMs plus tools plus memory plus a reasoning loop �
 can actually be useful inside an HPC environment, delivered entirely on
 **on-prem hardware** (2× A100 40 GB, Qwen3-class model, vLLM or SGLang).
 
+Presented by **Dennis** for the **Weizmann Institute of Science**.
+
 > **Live deck:** once GitHub Pages is enabled on this repo (see below),
 > the deck is viewable directly at
 > **https://lostboxart.github.io/hpc-ai-talk/**.
@@ -141,7 +143,8 @@ hpc-ai-talk/
 
 ## Credits
 
-Written by **Dennis B** (`@LostBoxArt`) for a public talk.
+Written and presented by **Dennis** (`@LostBoxArt`) for the
+**Weizmann Institute of Science**.
 
 The deck itself was built in a coding harness — the same class of tool
 the "What's a harness?" sidebar describes — as a meta-demonstration of
